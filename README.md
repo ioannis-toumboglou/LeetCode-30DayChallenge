@@ -6,4 +6,5 @@ A new assignment was given each day for the period of one month, covering some c
 List of topics:
 
 Day 01. Single Number<br>
-Day 02. Happy Number
+Day 02. Happy Number<br>
+Day 03. Maximum Subarray
