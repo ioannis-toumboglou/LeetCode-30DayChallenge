@@ -7,4 +7,5 @@ List of topics:
 
 Day 01. Single Number<br>
 Day 02. Happy Number<br>
-Day 03. Maximum Subarray
+Day 03. Maximum Subarray<br>
+Day 04. Move Zeros<br>
