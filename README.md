@@ -9,4 +9,5 @@ Day 01. Single Number<br>
 Day 02. Happy Number<br>
 Day 03. Maximum Subarray<br>
 Day 04. Move Zeros<br>
-Day 05. Best Time to Buy And Sell Stock<br> 
+Day 05. Best Time to Buy and Sell Stock<br> 
+Day 06. Group Anagrams<br>
