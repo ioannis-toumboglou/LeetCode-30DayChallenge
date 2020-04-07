@@ -1,3 +1,5 @@
+// Given an array of strings, group anagrams together.
+
 package LeetCode;
 
 import java.util.ArrayList;

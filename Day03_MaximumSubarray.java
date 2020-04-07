@@ -1,3 +1,7 @@
+/* Given an integer array nums, find the contiguous subarray (containing at least one number) 
+ * which has the largest sum and return its sum. 
+ */
+
 package LeetCode;
 
 public class Day03_MaximumSubarray {
