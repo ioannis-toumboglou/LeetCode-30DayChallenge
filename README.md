@@ -11,3 +11,4 @@ Day 03. Maximum Subarray<br>
 Day 04. Move Zeros<br>
 Day 05. Best Time to Buy and Sell Stock<br> 
 Day 06. Group Anagrams<br>
+Day 07. Counting Elements>br>
