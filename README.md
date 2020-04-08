@@ -12,3 +12,4 @@ Day 04. Move Zeros<br>
 Day 05. Best Time to Buy and Sell Stock<br> 
 Day 06. Group Anagrams<br>
 Day 07. Counting Elements<br>
+Day 08. Middle of the Linked List<br>
