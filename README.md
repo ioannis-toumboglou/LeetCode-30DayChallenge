@@ -14,4 +14,5 @@ Day 06. Group Anagrams<br>
 Day 07. Counting Elements<br>
 Day 08. Middle of the Linked List<br>
 Day 09. Backspace String Compare<br>
-Day 10. Min Stack
+Day 10. Min Stack<br>
+Day 11. Diameter of Binary Tree<br>
