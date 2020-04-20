@@ -24,3 +24,4 @@ Day 16. Valid Parenthesis String<br>
 Day 17. Number of Islands<br>
 Day 18. Minimum Path Sum<br>
 Day 19. Search in Rotated Sorted Array<br>
+Day 20. Binary Search Tree from Preorder Traversal<br>
