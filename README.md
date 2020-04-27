@@ -31,3 +31,4 @@ Day 23. Bitwise AND of Numbers Range<br>
 Day 24. LRU Cache<br>
 Day 25. Jump Game<br>
 Day 26. Longest Common Subsequence<br>
+Day 27. Maximal Square<br>
