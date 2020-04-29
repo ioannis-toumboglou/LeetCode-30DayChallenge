@@ -1,9 +1,9 @@
 # LeetCode-30DayChallenge
-My solutions to LeetCode's "30 Days of LeetCoding" challenge
+Solutions to LeetCode's "30 Days of LeetCoding" challenge
 
-A new assignment was given each day for the period of one month, covering some common software development topics.
+A new assignment was given every day for a period of one month, offering some interesting software development problems.
 
-List of topics:
+List of problems:
 
 Day 01. Single Number<br>
 Day 02. Happy Number<br>
@@ -33,3 +33,4 @@ Day 25. Jump Game<br>
 Day 26. Longest Common Subsequence<br>
 Day 27. Maximal Square<br>
 Day 28. First Unique Number<br>
+Day 29. Binary Tree Maximum Path Sum<br>
