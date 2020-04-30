@@ -34,3 +34,4 @@ Day 26. Longest Common Subsequence<br>
 Day 27. Maximal Square<br>
 Day 28. First Unique Number<br>
 Day 29. Binary Tree Maximum Path Sum<br>
+Day 30. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree<br>
